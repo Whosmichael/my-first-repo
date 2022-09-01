@@ -4,4 +4,4 @@ NPM     : 2106752054
 
 Kelas   : D
 
-Hobi    : Ngoding
+Hobi    : Bermain Gitar
